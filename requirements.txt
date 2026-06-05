@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+xgboost
+networkx
+scipy
+lifelines
+shap
+optuna
+faker
+streamlit
+plotly
+pyvis
+matplotlib
+seaborn
